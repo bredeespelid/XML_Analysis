@@ -1,4 +1,4 @@
-Beskrivelse
+
 Dette Python-programmet parser XML-filer for å ekstrahere og analysere spesifikke datafelt. Programmet bruker tkinter-biblioteket for å gi et grafisk brukergrensesnitt (GUI) hvor brukeren kan velge en eller flere XML-filer. Dataene blir deretter behandlet og en rapport vises i et popup-vindu.
 
 Funksjoner
